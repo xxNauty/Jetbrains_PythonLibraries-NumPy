@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 226
-        length: 6
+        length: 15
         placeholder_text: "# TODO"
         initial_state:
           length: 6
@@ -12,7 +12,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: S0qSf8lsNvKfLaqBVnh9vQ==
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: tests/test_task.py
     visible: false
@@ -24,5 +24,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Array+Basics+/+Create+Array+from+List
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 06 Aug 2025 14:24:39 UTC"
 record: -1

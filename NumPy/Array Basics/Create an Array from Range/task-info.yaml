@@ -4,25 +4,25 @@ files:
     visible: true
     placeholders:
       - offset: 42
-        length: 21
+        length: 33
         placeholder_text: '''add parameters here'''
         initial_state:
           length: 21
           offset: 42
         initialized_from_dependency: false
         encrypted_possible_answer: 5f6mB7Hu/d0GFWOUUtSzBdsWzvlIEO/xZpSiqUMTjsg=
-        selected: false
-        status: Unchecked
-      - offset: 77
-        length: 6
+        selected: true
+        status: Solved
+      - offset: 89
+        length: 25
         placeholder_text: "# TODO"
         initial_state:
           length: 6
           offset: 77
         initialized_from_dependency: false
         encrypted_possible_answer: NXl+YsS9btlfxGa7AbFzg3bE9eLMrutqlO318Tt18ug=
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: tests/test_task.py
     visible: false
@@ -34,5 +34,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Array+Basics+/+Create+Array+from+Range
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 06 Aug 2025 14:36:40 UTC"
 record: -1

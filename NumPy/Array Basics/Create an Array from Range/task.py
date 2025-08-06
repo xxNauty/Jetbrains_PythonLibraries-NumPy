@@ -1,8 +1,8 @@
 import numpy as np
 
 
-def array_from_range('add parameters here'):
-    return # TODO
+def array_from_range(min: int, max: int, step: int = 1):
+    return np.arange(min, max, step)
 
 
 if __name__ == '__main__':

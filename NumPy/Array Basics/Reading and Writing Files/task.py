@@ -1,7 +1,7 @@
 import numpy as np
 
 data = 'somedata.csv'
-arr = # TODO
+arr = np.genfromtxt(data, delimiter=',', skip_header=3)
 
 if __name__ == '__main__':
     print(arr.shape)

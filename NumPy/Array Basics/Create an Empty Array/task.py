@@ -2,7 +2,8 @@ import numpy as np
 
 
 def create_arrays(x, y):
-    # TODO
+    a = np.ones((x, y), dtype=np.int64)
+    b = np.full((x, y), True)
     return a, b
 
 

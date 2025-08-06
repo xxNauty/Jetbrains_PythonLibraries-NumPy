@@ -4,7 +4,7 @@ import numpy as np
 def create_array(x, y):
     list_ = [[i for i in range(y)] for i in range(x)]  # We use `list_` instead of
     # `list` here so that the variable name does not shadow the built-in name 'list'
-    array_ = # TODO
+    array_ = np.array(list_)
     return array_
 
 
